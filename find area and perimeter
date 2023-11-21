@@ -1,0 +1,16 @@
+//TO FIND AREA AND PERIMETER OF A SQUARE AND RECTANGLE
+#include<stdio.h>
+int void()
+{
+   int s_a,l,w,c,d,e;
+   printf("Enter the num t0 find area and perimeter of a squar:"); 
+   scanf("%d",&s_a);
+   c=a*a;
+   d=4*a;
+   printf("Enter the num to find area and perimeter of a rectangle:");
+   scanf("%d%d",&l&w);
+   e=2(l+w);
+   f=l*w;
+   printf("the area and perimeter of the square is %d and %d ",c,d);
+   printf("the area and perimeter of the rectangle is %d and %d ",f,e);
+}
